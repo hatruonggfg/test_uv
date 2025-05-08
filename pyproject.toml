@@ -7,5 +7,3 @@ requires-python = ">=3.13"
 dependencies = [
     "requests==2.31.0",
 ]
-git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
